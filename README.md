@@ -1,6 +1,7 @@
 #XML Learning Repository
-T
-his repository is dedicated to my XML learning journey at Virtual University. Here, I will be sharing concepts, assignments, examples, questions, and eventually a fully functional project. The purpose of uploading this repository on GitHub is to provide a learning pathway for newcomers and help them accelerate their XML learning.
+
+
+This repository is dedicated to my XML learning journey at Virtual University. Here, I will be sharing concepts, assignments, examples, questions, and eventually a fully functional project. The purpose of uploading this repository on GitHub is to provide a learning pathway for newcomers and help them accelerate their XML learning.
 Table of Contents
 #•	Getting Started
 #•	Assignments
