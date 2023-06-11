@@ -1,14 +1,14 @@
-# Leanring-XML
-XML Learning Repository
-This repository is dedicated to my XML learning journey at Virtual University. Here, I will be sharing concepts, assignments, examples, questions, and eventually a fully functional project. The purpose of uploading this repository on GitHub is to provide a learning pathway for newcomers and help them accelerate their XML learning.
+#XML Learning Repository
+T
+his repository is dedicated to my XML learning journey at Virtual University. Here, I will be sharing concepts, assignments, examples, questions, and eventually a fully functional project. The purpose of uploading this repository on GitHub is to provide a learning pathway for newcomers and help them accelerate their XML learning.
 Table of Contents
-•	Getting Started
-•	Assignments
-•	Examples
-•	Questions
-•	Final Project
-•	Contributing
-•	License
+#•	Getting Started
+#•	Assignments
+#•	Examples
+#•	Questions
+#•	Final Project
+#•	Contributing
+#•	License
 Getting Started
 If you're new to XML, start by exploring the basic concepts. I will share my learning materials, including tutorials and articles, to help you understand the fundamentals of XML.
 Assignments
